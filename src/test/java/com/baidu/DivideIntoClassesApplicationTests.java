@@ -1,4 +1,4 @@
-package com.baidu.divide_into_classes;
+package com.baidu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

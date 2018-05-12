@@ -1,4 +1,4 @@
-package com.baidu.divide_into_classes;
+package com.baidu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
